@@ -1,0 +1,10 @@
+{
+  "name": "day1",
+  "version": "0.0.0",
+  "description": "day1",
+  "main": "app.js",
+  "author": {
+    "name": "Toto",
+    "email": ""
+  }
+}

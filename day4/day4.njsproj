@@ -3,14 +3,14 @@
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">11.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
-    <Name>day2</Name>
-    <RootNamespace>day2</RootNamespace>
+    <Name>day4</Name>
+    <RootNamespace>day4</RootNamespace>
   </PropertyGroup>
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>0e0d926f-962a-4e15-8e23-b56d98096da5</ProjectGuid>
+    <ProjectGuid>36989068-d3a0-4cae-ae72-cda28ad221fd</ProjectGuid>
     <ProjectHome>.</ProjectHome>
     <StartupFile>part1.js</StartupFile>
     <StartWebBrowser>False</StartWebBrowser>
@@ -32,7 +32,6 @@
   <ItemGroup>
     <Compile Include="part1.js" />
     <Compile Include="part2.js" />
-    <Content Include="input.txt" />
     <Content Include="package.json" />
     <Content Include="README.md" />
   </ItemGroup>

@@ -31,6 +31,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="part1.js" />
+    <Compile Include="part2.js" />
     <Content Include="input.txt" />
     <Content Include="package.json" />
     <Content Include="README.md" />
